@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"> Hey 👋🏽, I'm Saki Celik </h1>
 
-<!--
-**sakiceliks/sakiceliks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+</p>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2 align="center">
+  Here are some technologies I use at work:
+</h2>
+<p align="center">
+
+
+</p>
+
+<br/>
+
+<p align="center">
+  <code><img height="75" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/react.png"></code> &nbsp;&nbsp;
+<code>
+<code><img height="75" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/css.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></code>
+</p>
+
+<br/>
+
+
+
+<br/>
